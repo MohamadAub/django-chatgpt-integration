@@ -5,6 +5,12 @@ This project enables users to interact with an AI-powered chatbot through a clea
 
 ---
 
+
+c:\Users\mhmda\OneDrive\Documents\My_Programming_Projects\Django ChatGPT Integration\DjangoChatgpt-main\Django ChatGPT Integration.png
+
+
+---
+
 ## 🚀 Features
 
 - 💬 **Interactive Chat Interface** — Real-time communication with ChatGPT.
