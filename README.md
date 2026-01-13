@@ -6,7 +6,7 @@ This project enables users to interact with an AI-powered chatbot through a clea
 ---
 
 
-![alt text](<Django chatgpt-1.png>)
+C:\Users\mhmda\OneDrive\Documents\My_Programming_Projects\Django ChatGPT Integration\DjangoChatgpt-main\django_chatgpt.png
 
 
 ---
