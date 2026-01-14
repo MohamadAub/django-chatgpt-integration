@@ -14,12 +14,12 @@ This project enables users to interact with an AI-powered chatbot through a clea
 
 ## 🚀 Features
 
-- 💬 **Interactive Chat Interface** — Real-time communication with ChatGPT.
-- 🔗 **Seamless API Integration** — Direct integration with OpenAI’s API.
-- 👤 **User Authentication** — Register and log in for personalized sessions.
-- 🧠 **Conversation History** — Save and display past interactions.
-- ⚡ **AJAX-Powered Responses** — Real-time message updates without page reloads.
-- 🧰 **Error Handling** — Graceful management of API and connection errors.
+- 💬 **Interactive Chat Interface** Real-time communication with ChatGPT.
+- 🔗 **Seamless API Integration** Direct integration with OpenAI’s API.
+- 👤 **User Authentication** Register and log in for personalized sessions.
+- 🧠 **Conversation History** Save and display past interactions.
+- ⚡ **AJAX-Powered Responses** Real-time message updates without page reloads.
+- 🧰 **Error Handling** Graceful management of API and connection errors.
 
 ---
 
